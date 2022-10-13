@@ -1,0 +1,2 @@
+dubboUserFilter=com.futao.springboot.enhance.framework.filters.UserDubboFilter
+asyncFilter=com.futao.springboot.enhance.framework.filters.DubboAsyncFilter
